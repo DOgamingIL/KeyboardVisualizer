@@ -386,7 +386,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>https://github.com/CalcProgrammer1/KeyboardVisualizer</string>
+     <string>DOG</string>
     </property>
    </widget>
    <widget class="QCheckBox" name="checkBox_Reactive_Background">
